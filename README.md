@@ -122,5 +122,5 @@ ROIC, Terminal Value, EV/EBITDA, Football Field Analysis
 🐍 Python | 📗 Excel | 🗄️ SQL | 📊 Power BI  
 ✍️ Finance Writer on Substack
 
-[🔗 LinkedIn](https://www.linkedin.com/in/nasim-ul-jilani-memon-907417318/) | [✍️ Substack](https://substack.com/@1nfallible)# HUL-Financial-Analysis
+[🔗 LinkedIn](https://www.linkedin.com/in/nasimuljilani/) | [✍️ Substack](https://substack.com/@1nfallible)# HUL-Financial-Analysis
 End-to-end equity research and financial modelling project on Hindustan Unilever Limited — DCF, Comps, WACC automation in Python, and Football Field Analysis
